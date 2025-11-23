@@ -31,3 +31,9 @@ yarn-error.log*
 .env
 .env.*
 !.env.example
+
+# Vite cache directory
+.vite
+
+# Build output
+dist
