@@ -7,7 +7,6 @@ export default defineConfig({
   base: '/ngo/',
   build: {
     outDir: 'dist',
-    assetsDir: 'assets',
-    sourcemap: true
+    assetsDir: 'assets'
   }
 })

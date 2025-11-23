@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://KRaviteja0302.github.io/ngo",
+  "homepage": "https://KRaviteja0302.github.io/ngo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
